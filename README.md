@@ -1,3 +1,5 @@
+Audible App for Book Genre Recommendations.
+
 Initial Source: Rohit Dass (6/14/2021). "Audible Dataser", https://www.kaggle.com/rohitdass/audible-dataset.
 
 Description: Initial full dataset for audible dataset recommendation engine. Total books 2200+(Including Duplicates). Then, using pandas 100 random human demographics were generated and merged to the initial source. The generated demographics were then merged to the initial source to create the "dataset_Exploded" dataset. After this final dataset was cleaned.
